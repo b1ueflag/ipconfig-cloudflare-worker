@@ -1,4 +1,4 @@
-name = "ipconfig-cloudflare-worker"
+name = "ipconfig"
 type = "javascript"
 
 account_id = "95cb78aa244bb6acb6110f50fd08788f"
