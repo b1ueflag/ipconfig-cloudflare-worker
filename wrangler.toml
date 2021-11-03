@@ -1,0 +1,8 @@
+name = "ipconfig-cloudflare-worker"
+type = "javascript"
+
+account_id = "95cb78aa244bb6acb6110f50fd08788f"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-03"
